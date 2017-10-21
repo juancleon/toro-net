@@ -3,6 +3,7 @@
 # Milestone diagram
 [a link] (https://github.com/navkaran4565/csc583-midterm/issues/1)
 
+
 social networking bulletin board system
 
 ## Team Structure
